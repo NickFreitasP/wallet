@@ -1,6 +1,6 @@
 <?php 
 
-namespace app\application\models;
+namespace App\application\models;
 
 use Exception;
 use DateTime;

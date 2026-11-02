@@ -1,8 +1,8 @@
 <?php 
  
-namespace app\application\services;
+namespace App\application\services;
 
- use app\application\models\Transaction;
+use App\application\models\Transaction;
 use Exception;
 
  class WalletService {

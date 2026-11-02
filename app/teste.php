@@ -4,8 +4,8 @@ require __DIR__ . '/../vendor/autoload.php';
 
 // namespace app;
 
-use app\application\models\Transaction;
-use app\application\services\WalletService;
+use App\application\models\Transaction;
+use App\application\services\WalletService;
 
 $transaction_one = new Transaction();
 $transaction_one->setValor(20);

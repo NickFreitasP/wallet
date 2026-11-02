@@ -1,10 +1,16 @@
 {
-
+ "name": "nickp/wallet",
+    "description": "simple project for practice PHP/POO ",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": "^8.3"
+    },
   "autoload": 
   {
     "psr-4": {
 
-     "app\\" :"app"
+     "App\\" :"app/"
 
     }
     
